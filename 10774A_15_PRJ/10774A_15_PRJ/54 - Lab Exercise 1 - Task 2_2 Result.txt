@@ -1,0 +1,14 @@
+type type_desc
+---- ------------------------------------------------------------
+C    CHECK_CONSTRAINT
+D    DEFAULT_CONSTRAINT
+F    FOREIGN_KEY_CONSTRAINT
+...
+...
+...
+S    SYSTEM_TABLE
+U    USER_TABLE
+V    VIEW
+
+(10 row(s) affected)
+

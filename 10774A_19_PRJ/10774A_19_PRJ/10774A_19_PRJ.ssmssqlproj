@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="10774A_19_PRJ">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="11 - Demonstration A.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>11 - Demonstration A.sql</FullPath>
+        </FileNode>
+        <FileNode Name="21 - Demonstration B.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>21 - Demonstration B.sql</FullPath>
+        </FileNode>
+        <FileNode Name="51 - Lab Exercise 1.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>51 - Lab Exercise 1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="56 - Lab Exercise 1 Solution.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>56 - Lab Exercise 1 Solution.sql</FullPath>
+        </FileNode>
+        <FileNode Name="61 - Lab Exercise 2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>61 - Lab Exercise 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="66 - Lab Exercise 2 Solution.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>66 - Lab Exercise 2 Solution.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items>
+        <FileNode Name="52 - Lab Exercise 1 - Task 1_1 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>52 - Lab Exercise 1 - Task 1_1 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="53 - Lab Exercise 1 - Task 1_2 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>53 - Lab Exercise 1 - Task 1_2 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="54 - Lab Exercise 1 - Task 3_1 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>54 - Lab Exercise 1 - Task 3_1 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="55 - Lab Exercise 1 - Task 3_2 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>55 - Lab Exercise 1 - Task 3_2 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="62 - Lab Exercise 2 - Task 1_1 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>62 - Lab Exercise 2 - Task 1_1 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="63 - Lab Exercise 2 - Task 1_2 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>63 - Lab Exercise 2 - Task 1_2 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="64 - Lab Exercise 2 - Task 3_1 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>64 - Lab Exercise 2 - Task 3_1 Result.txt</FullPath>
+        </FileNode>
+        <FileNode Name="65 - Lab Exercise 2 - Task 3_2 Result.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>65 - Lab Exercise 2 - Task 3_2 Result.txt</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

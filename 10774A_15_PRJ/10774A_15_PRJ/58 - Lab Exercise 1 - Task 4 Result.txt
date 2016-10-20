@@ -1,0 +1,14 @@
+columnname                                                                                                                       column_id   system_type_id max_length precision scale collation_name
+-------------------------------------------------------------------------------------------------------------------------------- ----------- -------------- ---------- --------- ----- --------------------------------------------------------------------------------------------------------------------------------
+custid                                                                                                                           1           56             4          10        0     NULL
+companyname                                                                                                                      2           231            80         0         0     SQL_Latin1_General_CP1_CI_AS
+contactname                                                                                                                      3           231            60         0         0     SQL_Latin1_General_CP1_CI_AS
+...
+...
+...
+country                                                                                                                          9           231            30         0         0     SQL_Latin1_General_CP1_CI_AS
+phone                                                                                                                            10          231            48         0         0     SQL_Latin1_General_CP1_CI_AS
+fax                                                                                                                              11          231            48         0         0     SQL_Latin1_General_CP1_CI_AS
+
+(11 row(s) affected)
+

@@ -1,0 +1,5 @@
+Logical CPU Count Hyperthread Ratio Physical CPU Count Physical Memory (MB) Last SQL Start
+----------------- ----------------- ------------------ -------------------- -----------------------
+2                 2                 1                  3499                 2011-11-21 12:15:56.030
+
+(1 row(s) affected)

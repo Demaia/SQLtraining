@@ -1,0 +1,13 @@
+columnname                                                                                                                       tablename                                                                                                                        schemaname
+-------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------
+firstname                                                                                                                        Employees                                                                                                                        HR
+lastname                                                                                                                         Employees                                                                                                                        HR
+companyname                                                                                                                      Suppliers                                                                                                                        Production
+...
+...
+...
+companyname                                                                                                                      Shippers                                                                                                                         Sales
+shipname                                                                                                                         Orders                                                                                                                           Sales
+filestream_value_name                                                                                                            filestream_tombstone_2073058421                                                                                                  sys
+
+(11 row(s) affected)

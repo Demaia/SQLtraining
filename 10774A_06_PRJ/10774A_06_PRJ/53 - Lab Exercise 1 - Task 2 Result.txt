@@ -1,0 +1,14 @@
+custid      companyname                              contactname                    address                                                      city            country         phone
+----------- ---------------------------------------- ------------------------------ ------------------------------------------------------------ --------------- --------------- ------------------------
+4           Customer HFBZG                           Arndt, Torsten                 7890 Hanover Sq.                                             London          UK              (171) 456-7890
+11          Customer UBHAU                           Jaffe, David                   Fauntleroy Circus 4567                                       London          UK              (171) 789-0123
+15          Customer JUWXK                           Richardson, Shawn              Av. dos Lusíadas, 6789                                       Sao Paulo       Brazil          (11) 012-3456
+...
+...
+...
+82          Customer EYHKM                           Veninga, Tjeerd                1234 DaVinci Blvd.                                           Kirkland        USA             (206) 555-0124
+88          Customer SRQVM                           Li, Yan                        Rua do Mercado, 4567                                         Resende         Brazil          (14) 234-5678
+89          Customer YBQTI                           Smith Jr., Ronaldo             8901 - 14th Ave. S. Suite 3B                                 Seattle         USA             (206) 555-0123
+
+(29 row(s) affected)
+

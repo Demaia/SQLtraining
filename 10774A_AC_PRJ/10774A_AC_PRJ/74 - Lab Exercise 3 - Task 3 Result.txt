@@ -1,0 +1,13 @@
+JobCandidateID Resume                                                                                                                                                                                                                                                           CandidateName
+-------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------
+1              <ns:Resume xmlns:ns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/Resume"><ns:Name><ns:Name.Prefix></ns:Name.Prefix><ns:Name.First>Shai</ns:Name.First><ns:Name.Middle></ns:Name.Middle><ns:Name.Last>Bassli</ns:Name.Last><ns:Name.Suffix></n Shai
+2              <ns:Resume xmlns:ns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/Resume"><ns:Name><ns:Name.Prefix>Mr.</ns:Name.Prefix><ns:Name.First>Max</ns:Name.First><ns:Name.Middle></ns:Name.Middle><ns:Name.Last>Benson</ns:Name.Last><ns:Name.Suffix>< Max
+3              <ns:Resume xmlns:ns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/Resume"><ns:Name><ns:Name.Prefix>Mr.</ns:Name.Prefix><ns:Name.First>Krishna</ns:Name.First><ns:Name.Middle></ns:Name.Middle><ns:Name.Last>Sunkammurali</ns:Name.Last><ns:Nam Krishna
+...
+...
+...
+11             <ns:Resume xmlns:ns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/Resume"><ns:Name><ns:Name.Prefix>???</ns:Name.Prefix><ns:Name.First>??????</ns:Name.First><ns:Name.Middle></ns:Name.Middle><ns:Name.Last>?????</ns:Name.Last><ns:Name.Suffix ??????
+12             <ns:Resume xmlns:ns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/Resume"><ns:Name><ns:Name.Prefix>??? </ns:Name.Prefix><ns:Name.First>??????</ns:Name.First><ns:Name.Middle></ns:Name.Middle><ns:Name.Last>??????</ns:Name.Last><ns:Name.Suff ??????
+13             <ns:Resume xmlns:ns="http://schemas.microsoft.com/sqlserver/2004/07/adventure-works/Resume"><ns:Name><ns:Name.Prefix></ns:Name.Prefix><ns:Name.First>??? </ns:Name.First><ns:Name.Middle></ns:Name.Middle><ns:Name.Last>????????? </ns:Name.Last><ns:Name.Suffix ??? 
+
+(13 row(s) affected)
